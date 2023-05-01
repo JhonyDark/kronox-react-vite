@@ -1,0 +1,6 @@
+1. instalar react con el empaquetador Vite 
+2. instalar tailwind css
+3. configurar variables de colores a utilizar 
+4. instalar npm install react-router-dom, esto nos va a traer todas las rutas.
+5. instalar npm install react-icons, para usar los iconos
+6. en el app.jsx, importamos: import { BrowserRouter, Routes, Route } from "react-router-dom"; 
