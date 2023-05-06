@@ -8,7 +8,7 @@ export default {
     extend: {
       colors:{
         btnprimary: "#4c7397",
-        btnsecondary: "#41807c",
+        btnsecondary: "#02DBBD",
         secondary:{
           900: "#131517",
           100: "#1d2029",
